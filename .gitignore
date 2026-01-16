@@ -1,0 +1,21 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Streamlit/PyTorch/DeepXDE caches
+*.egg-info/
+*.h5
+*.pt  # If you don't want to commit large models; add if needed
+models/  # Or just ignore the models dir if it's for saved weights

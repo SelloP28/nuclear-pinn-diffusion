@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+deepxde>=1.11.0
+torch>=2.0.0            
+plotly
+scipy
+numpy
