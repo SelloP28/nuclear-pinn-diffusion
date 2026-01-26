@@ -12,7 +12,7 @@ import numpy as np
 import plotly.graph_objects as go
 from scipy.sparse import linalg, eye, kron, csr_matrix
 
-st.set_page_config(page_title="PyTorch Nuclear PINN", layout="wide")
+st.set_page_config(page_title="Nuclear PINN", layout="wide")
 st.title("☢️ Nuclear PINN")
 
 # --- SIDEBAR ---
